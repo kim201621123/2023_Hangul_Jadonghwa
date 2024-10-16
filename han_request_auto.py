@@ -1,4 +1,4 @@
-#2023 10 10 김현성
+#2023 10 10 kim
 #요청서 만들기
 import win32com.client as win32  # 모듈 임포트
 import pandas as pd
