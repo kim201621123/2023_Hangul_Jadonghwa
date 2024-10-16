@@ -37,8 +37,8 @@ GaNaDaAGSnum = han_proceeding_auto.find_GaNaDaAGSnum_from_txt()
 
 
 
-read_file_route = 'C:/Users/tta/Desktop/hangule_Automated/forms/'
-save_file_route = 'C:/Users/tta/Desktop/hangule_Automated/saves/' + meeting_times + '/'
+read_file_route = 'C:/Users/DDA/Desktop/hangule_Automated/forms/'
+save_file_route = 'C:/Users/DDA/Desktop/hangule_Automated/saves/' + meeting_times + '/'
 if not os.path.exists(save_file_route):
     os.makedirs(save_file_route)
 else:
